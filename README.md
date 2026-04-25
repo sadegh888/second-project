@@ -4,3 +4,4 @@ add README file
 add notes section
 update project descriptin
 fix typo in README
+add usage info
