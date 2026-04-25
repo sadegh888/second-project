@@ -5,3 +5,4 @@ add notes section
 update project descriptin
 fix typo in README
 add usage info
+small content update
