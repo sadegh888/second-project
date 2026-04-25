@@ -1,2 +1,2 @@
 # second-project
-this is my second project
+initial commit
